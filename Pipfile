@@ -9,6 +9,9 @@ torch = "*"
 snntorch = "*"
 torchvision = "*"
 matplotlib = "*"
+kagglehub = {extras = ["pandas-datasets"], version = "*"}
+datasets = "*"
+pillow = "*"
 
 [dev-packages]
 
