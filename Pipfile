@@ -12,6 +12,7 @@ matplotlib = "*"
 kagglehub = {extras = ["pandas-datasets"], version = "*"}
 datasets = "*"
 pillow = "*"
+opencv-python = "*"
 
 [dev-packages]
 
