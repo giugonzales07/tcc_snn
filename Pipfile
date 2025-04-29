@@ -13,6 +13,8 @@ kagglehub = {extras = ["pandas-datasets"], version = "*"}
 datasets = "*"
 pillow = "*"
 opencv-python = "*"
+seaborn = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
