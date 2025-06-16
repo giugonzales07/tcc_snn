@@ -5,6 +5,12 @@ __pycache__/
 .env
 
 data/
+*.csv
+*.npz
+*.png
+
+models/
+*.pth
 
 logs/
 *.log
