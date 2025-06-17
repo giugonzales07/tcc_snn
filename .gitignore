@@ -12,6 +12,8 @@ data/
 models/
 *.pth
 
+OPFlmb/
+
 logs/
 *.log
 *.tmp
