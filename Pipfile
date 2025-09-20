@@ -8,7 +8,6 @@ pandas = "*"
 torch = "*"
 snntorch = "*"
 torchvision = "*"
-matplotlib = "*"
 kagglehub = {extras = ["pandas-datasets"], version = "*"}
 datasets = "*"
 pillow = "*"
@@ -16,6 +15,10 @@ opencv-python = "*"
 seaborn = "*"
 scikit-learn = "*"
 imblearn = "*"
+codecarbon = "*"
+pyjoules = "*"
+carbontracker = "*"
+matplotlib = "*"
 
 [dev-packages]
 
